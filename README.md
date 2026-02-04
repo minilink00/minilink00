@@ -1,6 +1,6 @@
 Hi, this is Minilink06!
 
-I'm currently studying to get a degree on Cmputer Sciences un UADE, Argentina.
+I'm currently studying to get a degree on Computer Sciences un UADE, Argentina.
 
 My main intrests are:
 - Cybersecurity
